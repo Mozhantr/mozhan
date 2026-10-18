@@ -1,0 +1,6 @@
+{
+  "name": "کارگاه دست‌سازه‌های دستانه | Dastaneh Artisan Studio",
+  "description": "فروشگاه آنلاین تخصصی دست‌سازه‌های فاخر ایرانی، سرامیک دست‌ساز، چرم طبیعی دوز، زیورآلات برنجی و منسوجات دست‌باف اصیل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
